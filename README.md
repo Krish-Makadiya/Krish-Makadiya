@@ -1,21 +1,16 @@
+<p align="center">
+  <img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" alt="MasterHead" width="100%" height="300px" style="object-fit: cover;" />
+</p>
 <h1 align="center">Hi 👋, I'm Krish Makadiya</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krish-makadiya&label=Profile%20views&color=a5f33c&style=flat" alt="krish-makadiya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish-makadiya" alt="krish-makadiya" /></a> </p>
-
-- 🔭 I’m currently working on **Mockraft**
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=krish-makadiya&label=Profile%20views&color=a5f33c&style=flat" alt="krish-makadiya" /> </p>
 
 - 🌱 I’m currently learning **Devops and Exploring it.**
 
 - 👯 I’m looking to collaborate on **Open Source contributions**
 
 - 👨‍💻 All of my projects are available at [http://krish-makadiya.vercel.app/](http://krish-makadiya.vercel.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@krishmakadiya2005](https://medium.com/@krishmakadiya2005)
-
-- 📫 How to reach me **krishmakadiya2005@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jxpl9hWgLEKKsAyVTyTF9b5EZG2aWHAx/view](https://drive.google.com/file/d/1jxpl9hWgLEKKsAyVTyTF9b5EZG2aWHAx/view)
 
